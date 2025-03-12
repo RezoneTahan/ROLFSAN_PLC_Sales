@@ -1,4 +1,9 @@
 # ROLFSAN_PLC_Sales
+The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data.
+• KPI- Total Profit, Total Cost, Total Sales, Total Quantity, Total Product, Total Order, Avg Product Price, MAx Price, Min
+Price, Total Sales.
+• Total Sales by Year, Quarter and Month, Total Sales By Subcategory Name, Total Order, Total Profit, Total Sales, Total
+Quantity and Total Cost by Continent, Total Order by Subcategory Name.
 
 ![image](https://github.com/user-attachments/assets/cf38fbf9-90c2-4ccd-a6ca-ca940920daee)
 
