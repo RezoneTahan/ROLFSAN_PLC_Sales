@@ -4,6 +4,7 @@ The dashboard should provide real-time insights into key performance indicators 
 Price, Total Sales.
 • Total Sales by Year, Quarter and Month, Total Sales By Subcategory Name, Total Order, Total Profit, Total Sales, Total
 Quantity and Total Cost by Continent, Total Order by Subcategory Name.
+https://app.powerbi.com/view?r=eyJrIjoiYjU3YTQ3MTItYjkwMS00YmNjLTkwNzItOGU5NzEwYmZkZWFiIiwidCI6IjY3NzQ0OGU5LTYyMzctNGNhYy05OGViLTkyZWZkNTcwZGVkMyIsImMiOjEwfQ%3D%3D
 
 ![image](https://github.com/user-attachments/assets/cf38fbf9-90c2-4ccd-a6ca-ca940920daee)
 
